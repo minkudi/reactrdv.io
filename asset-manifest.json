@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/minkudi/reactrdv.io.git/static/css/main.6fe62176.css",
+    "main.js": "/minkudi/reactrdv.io.git/static/js/main.3919cbd5.js",
+    "static/js/453.56f46472.chunk.js": "/minkudi/reactrdv.io.git/static/js/453.56f46472.chunk.js",
+    "static/media/med.png": "/minkudi/reactrdv.io.git/static/media/med.d3565065bca5180ccfc6.png",
+    "index.html": "/minkudi/reactrdv.io.git/index.html",
+    "main.6fe62176.css.map": "/minkudi/reactrdv.io.git/static/css/main.6fe62176.css.map",
+    "main.3919cbd5.js.map": "/minkudi/reactrdv.io.git/static/js/main.3919cbd5.js.map",
+    "453.56f46472.chunk.js.map": "/minkudi/reactrdv.io.git/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe62176.css",
+    "static/js/main.3919cbd5.js"
+  ]
+}
